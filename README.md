@@ -1,4 +1,4 @@
-!(C:\Users\Adam\Desktop\5.png)
+![](C:\Users\Adam\Desktop\5.png)
 
 # 前端学习笔记
 # react框架
