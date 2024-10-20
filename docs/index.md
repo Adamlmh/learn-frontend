@@ -7,7 +7,7 @@ hero:
     - text: 立即开始
       link: /fontend
     - text: Github
-      link: https://github.com/Adamlmh/Quincyl
+      link: https://github.com/Adamlmh/QuincylDocs
 features:
   - title: 开源
     emoji: 💎

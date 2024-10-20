@@ -1,23 +1,5 @@
 # Quincyl
 
-A static site base on [dumi](https://d.umijs.org).
+🌟 大家好！今天想和你们分享一个特别的地方——Quincyl。这是我专门用来记录自己大学生活的网站，希望能够带给你们一些思考和启发。🎓✨
 
-## Development
-
-```bash
-# install dependencies
-$ npm install
-
-# start dev server
-$ npm start
-
-# build docs
-$ npm run build
-
-# Locally preview the production build
-$ npm run preview
-```
-
-## LICENSE
-
-MIT
+如果你也对这些主题感兴趣，欢迎来到 Quincyl，一起分享和交流！🎉🌟
