@@ -5,7 +5,7 @@ hero:
   description: 😊 这个网站是用来记录大学四年生活滴！😊
   actions:
     - text: 立即开始
-      link: /fontend
+      link: /frontend
     - text: Github
       link: https://github.com/Adamlmh/QuincylDocs
 features:
